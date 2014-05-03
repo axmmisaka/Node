@@ -32,6 +32,8 @@ int main(void)
     int pos;
     char choice;
     LLIST * original_node,* modify_node;
+    SetConsoleTitle("Ass♂We♂Can!");// Change current window title
+    Sleep(40);// Ensure window title has been updated.
     printf("Reloading AK47,please wait......\n");
     printf("Node by AXM_MISAKA20001.\n");
     printf("VER:Alpha 1.4 Debug.\nThis program servers only ONE node.");
@@ -337,10 +339,10 @@ int question(void)
     strcpy(array[1][1],"恨妹不成穹");
     strcpy(array[2][0],"踏まれた花の,__________.");
     strcpy(array[2][1],"名前も知らずに");
-    strcpy(array[3][0],"泣きべそばっかかいてんのはどちら様,_______.");
-    strcpy(array[3][1],"笑われた分だけやり返せ.");
-    strcpy(array[4][0],"使吧基佬来相会");
-    strcpy(array[4][1],"我们都爱黑绿皮");
+    strcpy(array[3][0],"PX是___化学物质?");
+    strcpy(array[3][1],"剧毒致癌有核辐射能导致全球变暖并能轻易摧毁城市的转基因");
+    strcpy(array[4][0],"三千预算进卡吧,____________.十核E7装上去,四路泰坦抱回家.");
+    strcpy(array[4][1],"加钱加到十万八");
     strcpy(array[5][0],"是谁创造了人类世界?______.");
     strcpy(array[5][1],"是我们劳动群众");
     strcpy(array[6][0],"本文经过________审查认可，可供无产阶级乡民阅读。");
@@ -349,8 +351,8 @@ int question(void)
     strcpy(array[7][1],"高达八成");
     strcpy(array[8][0],"炮姐的CP是:");
     strcpy(array[8][1],"上条当妈");
-    strcpy(array[9][0],"作者的Steam ID是:");
-    strcpy(array[9][1],"AXM_MISAKA20001");
+    strcpy(array[9][0],"使吧基友来相会,_______.");
+    strcpy(array[9][1],"我们都爱黑绿皮");
     for(int loop=3;loop > 0;loop--)
     {
         QueryPerformanceCounter(&litmp);
