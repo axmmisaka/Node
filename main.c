@@ -339,8 +339,8 @@ int question(void)
     strcpy(array[2][1],"名前も知らずに");
     strcpy(array[3][0],"泣きべそばっかかいてんのはどちら様,_______.");
     strcpy(array[3][1],"笑われた分だけやり返せ.");
-    strcpy(array[4][0],"刃渡り数センチの不信感が_______.");
-    strcpy(array[4][1],"挙げ句の果て静脉を刺しちゃって.");
+    strcpy(array[4][0],"使吧基佬来相会");
+    strcpy(array[4][1],"我们都爱黑绿皮");
     strcpy(array[5][0],"是谁创造了人类世界?______.");
     strcpy(array[5][1],"是我们劳动群众");
     strcpy(array[6][0],"本文经过________审查认可，可供无产阶级乡民阅读。");
